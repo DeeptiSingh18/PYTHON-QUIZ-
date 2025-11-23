@@ -2,13 +2,13 @@
 ## PROJECT OVERVIEW
 The CSE Flashcard Quiz is an interactive Python-based learning tool designed for Computer Science students. It helps students practice and memorize key concepts from multiplt subjects.
 # SUBJECTS:                                         # NO.OF QUESTIONS:
-# C PROGRAMMING                                             3
-# PYTHON                                                    2
-# DATA STRUCTURE                                            2
-# DBMS                                                      2
-# OPERATING SYSTEMS                                         2
-# DIGITAL LOGIC                                             2
-# OTHERS                                                    2
+# C PROGRAMMING                       :                     3
+# PYTHON                              :                     2
+# DATA STRUCTURE                      :                     2
+# DBMS                                :                     2
+# OPERATING SYSTEMS                   :                     2
+# DIGITAL LOGIC                       :                     2
+# OTHERS                              :                     2
 The quiz uses a flashcard-style format to reinforce active recall, improve retention, and make learning fun and interactive.
 
 # OBJECTIVE:
