@@ -1,4 +1,6 @@
 # PYTHON-FLASHCARD QUIZ-
+   ## BY DEEPTI SINGH
+   ## 25BAI10058
 ## PROJECT OVERVIEW
 The CSE Flashcard Quiz is an interactive Python-based learning tool designed for Computer Science students. It helps students practice and memorize key concepts from multiplt subjects.
 # SUBJECTS:                                         # NO.OF QUESTIONS:
